@@ -2,7 +2,7 @@
 
 # Hey there, I'm Pratyush
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Software+Developer+%7C+Building+Things+That+Matter;Full+Stack+Engineer+%7C+ECE+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Software+Developer+%7C+Building+Things+That+Matter;Full+Stack+Engineer+%7C+ECE+Student" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -176,7 +176,6 @@ Detects hidden privilege escalation paths in AWS IAM policies using graph-based 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-kumar-a61388287/)
 [![Holopin](https://img.shields.io/badge/Holopin-8B5CF6?style=for-the-badge&logo=holopin&logoColor=white)](https://www.holopin.io/@pratyush2240#badges)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO.com)
 
 </div>
 
